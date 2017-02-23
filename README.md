@@ -6,6 +6,8 @@ This is a Repo regarding [this Reddit post](https://www.reddit.com/r/GlobalOffen
 
 all credit for the Original work goes to [u/salahzas](https://www.reddit.com/user/salahzas)
 
+[Gitter](https://github.com/KeananFlowerday/CSGO-Bot-Rush) for discussions
+
 Just thought it would be safer and easier to work from GitHub.
 
 Anyone is free to contribute.
